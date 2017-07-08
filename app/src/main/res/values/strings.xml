@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CallLogTracker</string>
+    <string name="title_activity_send_call_log">SendCallLog</string>
+</resources>
